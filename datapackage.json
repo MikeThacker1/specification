@@ -1005,12 +1005,12 @@
                         },
                         {
                             "name": "service_id",
-                            "description": "The identifier of the service for which this is the regular schedule",
+                            "description": "The identifier of the service for which this is the schedule",
                             "type": "string"
                         },
                         {
                             "name": "location_id",
-                            "description": "The identifier of the location for which this is the regular schedule",
+                            "description": "The identifier of the location for which this is the schedule",
                             "type": "string"
                         },
                         {
